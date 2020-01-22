@@ -1,0 +1,56 @@
+{
+    "name": "test app",
+    "short_name": "test",
+    "start_url": "/index.html",
+    "display": "standalone",
+    "theme_color": "white",
+    "background_color": "white",
+    "lang": "en-US",
+    "icons": [
+        {
+            "src": "images/test-icon-32.png",
+            "sizes": "32x32",
+            "type": "image/png"
+        },
+        {
+            "src": "images/test-icon-128.png",
+            "sizes": "128x128",
+            "type": "image/png"
+        },
+        {
+            "src": "images/test-icon-144.png",
+            "sizes": "144x144",
+            "type": "image/png"
+        },
+        {
+            "src": "images/test-icon-152.png",
+            "sizes": "152x152",
+            "type": "image/png"
+        },
+        {
+            "src": "images/test-icon-167.png",
+            "sizes": "167x167",
+            "type": "image/png"
+        },
+        {
+            "src": "images/test-icon-180.png",
+            "sizes": "180x180",
+            "type": "image/png"
+        },
+        {
+            "src": "images/test-icon-192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "images/test-icon-256.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        },
+        {
+            "src": "images/test-icon-512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ]
+}
