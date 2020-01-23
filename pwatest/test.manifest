@@ -1,10 +1,10 @@
 {
     "name": "test app",
     "short_name": "test",
-    "start_url": "index.html",
+    "start_url": "app.html",
     "display": "standalone",
-    "theme_color": "white",
-    "background_color": "white",
+    "theme_color": "#cccccc",
+    "background_color": "#222222",
     "lang": "en-US",
     "icons": [
         {
